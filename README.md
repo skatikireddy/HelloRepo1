@@ -11,6 +11,7 @@ This example demonstrates:
 * Integration test using [system-rules](http://www.stefan-birkner.de/system-rules/) to test `System.out`
 * Code coverage reports via [Cobertura](http://cobertura.github.io/cobertura/)
 * A Maven build that puts it all together
+* Thanks for sharing the info it's so usefull with the links.
 
 Running the tests
 -----------------
